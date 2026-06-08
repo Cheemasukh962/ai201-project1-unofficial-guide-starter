@@ -43,8 +43,8 @@ Example: `American_River_College_UC_Davis_Computer_Science.txt`
 | 10 | ASSIST.org API | ARC → UC Davis Political Science articulation | Same API, different major key |
 
 Institution IDs:
-- American River College (ARC) = institution ID **4**
-- UC Davis = institution ID **79**
+- American River College (ARC) = institution ID **27**
+- UC Davis = institution ID **89**
 - 2024–25 academic year = year ID **75**
 
 Estimated document count: 10–30 files for ARC → UC Davis scope.

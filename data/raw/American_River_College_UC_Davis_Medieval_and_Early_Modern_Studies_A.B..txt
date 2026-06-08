@@ -1,0 +1,23 @@
+Major: Medieval & Early Modern Studies A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  AHI 001B - Medieval & Renaissance Art
+CC course:  ARTH 308 - Renaissance Tradition in Art
+
+UC course:  AHI 001E - Islamic Art & Architecture
+CC course:  ARTH 333 - Introduction to Islamic Art
+
+UC course:  COM 002 - Major Works of the Medieval & Early Modern World
+CC course:  ENGLT 341 - World Literature II AND ENGLT 340 - World Literature I
+
+UC course:  AHI 001C - Baroque to Modern Art
+CC course:  ARTH 310 - Modern Art
+
+UC course:  PHI 021 - Philosophical Classics of the Ancient Era
+CC course:  PHIL 330 - History of Classical Philosophy
+
+UC course:  PHI 022 - Philosophical Classics of the Modern Era
+CC course:  PHIL 331 - History of Modern Philosophy
+
+UC course:  ENL 010A - Literatures in English I: To 1700
+CC course:  ENGLT 310 - English Literature I

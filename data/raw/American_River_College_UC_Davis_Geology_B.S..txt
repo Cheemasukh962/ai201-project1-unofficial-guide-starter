@@ -1,0 +1,50 @@
+Major: Geology B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  PHY 009B - Classical Physics
+CC course:  PHYS 431 - Heat, Waves, Light and Modern Physics
+
+UC course:  PHY 009A - Classical Physics
+CC course:  PHYS 410 - Mechanics of Solids and Fluids
+
+UC course:  PHY 007A - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 007B - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  GEL 050L - Physical Geology Laboratory
+CC course:  GEOL 301 - Physical Geology Laboratory
+
+UC course:  GEL 050 - Physical Geology
+CC course:  GEOL 300 - Physical Geology
+
+UC course:  MAT 016B - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 016A - Short Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 016C - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  MAT 017A - Calculus for Biology & Medicine
+CC course:  MATH 355 - Calculus for Biology and Medicine I
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics

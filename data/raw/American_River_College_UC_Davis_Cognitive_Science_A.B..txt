@@ -1,0 +1,17 @@
+Major: Cognitive Science A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  PSC 001 - General Psychology
+CC course:  PSYC 300 - General Principles / PSYC 480 - Honors General Principles
+
+UC course:  LIN 001 - Introduction to Linguistics
+CC course:  ANTH 341 - Introduction to Linguistics
+
+UC course:  PHI 012 - Introduction to Symbolic Logic
+CC course:  PHIL 324 - Symbolic Logic / MATH 320 - Symbolic Logic
+
+UC course:  PSC 041 - Research Methods in Psychology
+CC course:  PSYC 335 - Research Methods in Psychology

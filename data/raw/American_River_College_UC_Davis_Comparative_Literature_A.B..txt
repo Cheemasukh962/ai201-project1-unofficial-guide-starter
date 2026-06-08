@@ -1,0 +1,32 @@
+Major: Comparative Literature A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  COM 006 - Myths & Legends
+CC course:  ENGLT 345 - Mythologies of the World
+
+UC course:  COM 014 - Introduction to Poetry
+CC course:  ENGLT 304 - Introduction to Poetry
+
+UC course:  COM 002 - Major Works of the Medieval & Early Modern World
+CC course:  ENGLT 341 - World Literature II AND ENGLT 340 - World Literature I
+
+UC course:  COM 001 - Major Works of the Ancient World
+CC course:  ENGLT 340 - World Literature I
+
+UC course:  COM 003 - Major Works of the Modern World
+CC course:  ENGLT 341 - World Literature II
+
+UC course:  COM 007 - Literature of Fantasy & the Supernatural
+CC course:  ENGLT 392 - Science Fiction and Fantasy
+
+UC course:  COM 013 - Dramatic Literature
+CC course:  ENGLT 382 - Introduction to Dramatic Literature
+
+UC course:  COM 003 - Major Works of the Modern World
+CC course:  ENGLT 341 - World Literature II
+
+UC course:  COM 002 - Major Works of the Medieval & Early Modern World
+CC course:  ENGLT 341 - World Literature II AND ENGLT 340 - World Literature I
+
+UC course:  COM 001 - Major Works of the Ancient World
+CC course:  ENGLT 340 - World Literature I

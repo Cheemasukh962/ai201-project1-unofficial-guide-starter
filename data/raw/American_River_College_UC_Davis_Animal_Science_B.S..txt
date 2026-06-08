@@ -1,0 +1,26 @@
+Major: Animal Science B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  MAT 016B - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 016A - Short Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 017A - Calculus for Biology & Medicine
+CC course:  MATH 355 - Calculus for Biology and Medicine I
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life
+CC course:  BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany

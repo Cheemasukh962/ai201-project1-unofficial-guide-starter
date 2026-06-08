@@ -1,0 +1,38 @@
+Major: Philosophy A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  PHI 021 - Philosophical Classics of the Ancient Era
+CC course:  PHIL 330 - History of Classical Philosophy
+
+UC course:  PHI 012 - Introduction to Symbolic Logic
+CC course:  PHIL 324 - Symbolic Logic / MATH 320 - Symbolic Logic
+
+UC course:  PHI 005 - Critical Reasoning
+CC course:  PHIL 320 - Logic and Critical Reasoning
+
+UC course:  PHI 024 - Introduction to Ethics
+CC course:  PHIL 310 - Introduction to Ethics
+
+UC course:  PHI 024 - Introduction to Ethics
+CC course:  PHIL 310 - Introduction to Ethics
+
+UC course:  PHI 014 - Ethical & Social Problems in Contemporary Society
+CC course:  PHIL 315 - Contemporary Moral Issues
+
+UC course:  PHI 014 - Ethical & Social Problems in Contemporary Society
+CC course:  PHIL 315 - Contemporary Moral Issues
+
+UC course:  PHI 012 - Introduction to Symbolic Logic
+CC course:  PHIL 324 - Symbolic Logic / MATH 320 - Symbolic Logic
+
+UC course:  PHI 012 - Introduction to Symbolic Logic
+CC course:  PHIL 324 - Symbolic Logic / MATH 320 - Symbolic Logic
+
+UC course:  PHI 022 - Philosophical Classics of the Modern Era
+CC course:  PHIL 331 - History of Modern Philosophy
+
+UC course:  PHI 001 - Introduction to Philosophy
+CC course:  PHIL 300 - Introduction to Philosophy / PHIL 331 - History of Modern Philosophy
+
+UC course:  PHI 024 - Introduction to Ethics
+CC course:  PHIL 310 - Introduction to Ethics

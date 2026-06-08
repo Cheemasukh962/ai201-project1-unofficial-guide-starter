@@ -1,0 +1,38 @@
+Major: Asian American Studies A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  CHI 010 - Introduction to Chicana/o Studies
+CC course:  ETHNS 360 - Introduction to Chicana/o/x Studies
+
+UC course:  NAS 005 - Introduction to Native American Literature
+CC course:  ENGLT 338 - Native American Literature
+
+UC course:  CHI 040S - Comparative Health: Leading Causes of Death
+CC course:  No articulation
+
+UC course:  AMS 030 - Images of America & Americans in Popular Culture
+CC course:  SOC 350 - Sociology of Popular Culture
+
+UC course:  WMS 025 - Gender & Global Cinema
+CC course:  TAFILM 307 - Diversity in American Film
+
+UC course:  NAS 001 - Introduction to Native American Studies
+CC course:  ETHNS 350 - Introduction to Native American Studies
+
+UC course:  CHI 021S - Chicana/o & Latina/o Health Care Issues
+CC course:  No articulation
+
+UC course:  AAS 010 - African-American Culture & Society
+CC course:  ETHNS 320 - Introduction to African American Studies
+
+UC course:  ASA 001 - Historical Experience of Asian Americans
+CC course:  HIST 325 - History of Asian/Pacific Americans / ETHNS 330 - Introduction to Asian American Studies
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  PHI 005 - Critical Reasoning
+CC course:  PHIL 320 - Logic and Critical Reasoning
+
+UC course:  PSC 041 - Research Methods in Psychology
+CC course:  PSYC 335 - Research Methods in Psychology

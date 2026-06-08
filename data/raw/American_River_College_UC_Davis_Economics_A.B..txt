@@ -1,0 +1,26 @@
+Major: Economics A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  ECN 001A - Principles of Microeconomics
+CC course:  ECON 304 - Principles of Microeconomics
+
+UC course:  MAT 017A - Calculus for Biology & Medicine
+CC course:  MATH 355 - Calculus for Biology and Medicine I
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 016B - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 016A - Short Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics

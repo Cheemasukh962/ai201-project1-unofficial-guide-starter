@@ -1,0 +1,14 @@
+Major: Spanish A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  SPA 031 - Spanish for Heritage Speakers I
+CC course:  SPAN 413 - Spanish for Native Speakers I
+
+UC course:  SPA 032 - Spanish for Heritage Speakers II
+CC course:  SPAN 415 - Spanish for Native Speakers II
+
+UC course:  SPA 021 - Intermediate Spanish
+CC course:  SPAN 411 - Intermediate Spanish
+
+UC course:  SPA 022 - Intermediate Spanish
+CC course:  SPAN 412 - Intermediate Spanish

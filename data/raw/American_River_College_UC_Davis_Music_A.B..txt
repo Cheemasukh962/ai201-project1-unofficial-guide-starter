@@ -1,0 +1,11 @@
+Major: Music A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  MUS 006A - Elementary Theory, Part 1
+CC course:  MUFHL 400 - Music Theory and Musicianship I
+
+UC course:  MUS 006B - Elementary Theory, Part 2
+CC course:  MUFHL 401 - Music Theory and Musicianship II
+
+UC course:  MUS 016A - Elementary Musicianship, Part 1
+CC course:  MUFHL 321 - Basic Musicianship

@@ -1,0 +1,38 @@
+Major: Clinical Nutrition B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  SOC 003 - Social Problems
+CC course:  SOC 301 - Social Problems
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  ECN 001A - Principles of Microeconomics
+CC course:  ECON 304 - Principles of Microeconomics
+
+UC course:  PSC 001 - General Psychology
+CC course:  PSYC 300 - General Principles / PSYC 480 - Honors General Principles
+
+UC course:  ENL 003 - Introduction to Literature
+CC course:  ENGWR 301 - College Composition and Literature / ENGWR 481 - Honors College Composition and Literature / ENGWR 303 - Argumentative Writing and Critical Thinking Through Literature
+
+UC course:  UWP 001 - Introduction to Academic Literacies
+CC course:  ENGWR 482 - Honors Advanced Composition and Critical Thinking / ENGWR 302 - Advanced Composition and Critical Thinking / ENGWR 480 - Honors College Composition / ENGWR 300 - College Composition
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  CMN 001 - Introduction to Public Speaking
+CC course:  COMM 301 - Introduction to Public Speaking

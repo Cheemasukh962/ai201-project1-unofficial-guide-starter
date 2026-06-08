@@ -1,0 +1,23 @@
+Major: Classical Civilization A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  RST 040 - New Testament
+CC course:  RLST 311 - Introduction to the New Testament
+
+UC course:  COM 001 - Major Works of the Ancient World
+CC course:  ENGLT 340 - World Literature I
+
+UC course:  PHI 021 - Philosophical Classics of the Ancient Era
+CC course:  PHIL 330 - History of Classical Philosophy
+
+UC course:  RST 021 - The Bible & Its Interpreters
+CC course:  RLST 310 - Introduction to the Hebrew Bible
+
+UC course:  CLA 050 - Ancient Science
+CC course:  No articulation
+
+UC course:  AHI 001A - Ancient Mediterranean Art
+CC course:  ARTH 302 - Art: Stone Age through the Middle Ages
+
+UC course:  CLA 030F - Greek & Latin Elements in English Vocabulary
+CC course:  No articulation

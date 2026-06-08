@@ -1,0 +1,17 @@
+Major: Theatre & Dance A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  DRA 040B - Intermediate Modern Dance
+CC course:  DANCE 332 - Modern Dance II
+
+UC course:  DRA 040A - Beginning Modern Dance
+CC course:  DANCE 330 - Modern Dance I
+
+UC course:  DRA 042B - Intermediate Ballet
+CC course:  DANCE 321 - Ballet II
+
+UC course:  DRA 042A - Beginning Ballet
+CC course:  DANCE 320 - Ballet I
+
+UC course:  DRA 021A - Fundamentals of Acting
+CC course:  TA 351 - Theory and Techniques of Acting II / TA 350 - Theory and Techniques of Acting 1

@@ -1,0 +1,53 @@
+Major: American Studies A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  SOC 002 - Self & Society
+CC course:  SOC 309 - Self and Society
+
+UC course:  AMS 030 - Images of America & Americans in Popular Culture
+CC course:  SOC 350 - Sociology of Popular Culture
+
+UC course:  AMS 004 - Freshman Seminar
+CC course:  No articulation
+
+UC course:  ASA 001 - Historical Experience of Asian Americans
+CC course:  HIST 325 - History of Asian/Pacific Americans / ETHNS 330 - Introduction to Asian American Studies
+
+UC course:  CHI 010 - Introduction to Chicana/o Studies
+CC course:  ETHNS 360 - Introduction to Chicana/o/x Studies
+
+UC course:  NAS 001 - Introduction to Native American Studies
+CC course:  ETHNS 350 - Introduction to Native American Studies
+
+UC course:  AAS 010 - African-American Culture & Society
+CC course:  ETHNS 320 - Introduction to African American Studies
+
+UC course:  ENL 003 - Introduction to Literature
+CC course:  ENGWR 301 - College Composition and Literature / ENGWR 481 - Honors College Composition and Literature / ENGWR 303 - Argumentative Writing and Critical Thinking Through Literature
+
+UC course:  ENL 010A - Literatures in English I: To 1700
+CC course:  ENGLT 310 - English Literature I
+
+UC course:  ENL 010B - Literatures in English II: 1700-1900
+CC course:  ENGLT 311 - English Literature II / ENGLT 320 - American Literature I
+
+UC course:  ENL 010C - Literatures in English III: 1900 to Present
+CC course:  ENGLT 311 - English Literature II / ENGLT 321 - American Literature II
+
+UC course:  CDM 001 - Introduction to Film Studies
+CC course:  TAFILM 300 - Introduction to Film
+
+UC course:  HIS 017A - History of the United States
+CC course:  HIST 310 - History of the United States (to 1877) / HIST 483 - History of the United States-Honors
+
+UC course:  HIS 072A - Women & Gender in America, to 1865
+CC course:  HIST 330 - Women in American History
+
+UC course:  HIS 072B - Women & Gender in America, 1865-Present
+CC course:  HIST 330 - Women in American History
+
+UC course:  HIS 017B - History of the United States
+CC course:  HIST 484 - History of the United States-Honors / HIST 311 - History of the United States (1865 - Present)

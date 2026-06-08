@@ -1,0 +1,32 @@
+Major: Political Science A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  POL 004 - Basic Concepts in Political Theory
+CC course:  POLS 320 - Introduction to Political Theory
+
+UC course:  POL 003 - International Relations
+CC course:  POLS 310 - Introduction to International Relations / POLS 480 - Introduction to International Relations - Honors
+
+UC course:  POL 007 - Introduction to Law & Politics
+CC course:  POLS 330 - Constitutional Rights
+
+UC course:  POL 001 - American National Government
+CC course:  POLS 481 - Introduction to Government: United States-Honors / POLS 301 - Introduction to Government: United States
+
+UC course:  POL 002 - Introduction to Comparative Politics
+CC course:  POLS 302 - Comparative Politics
+
+UC course:  POL 003 - International Relations
+CC course:  POLS 310 - Introduction to International Relations / POLS 480 - Introduction to International Relations - Honors
+
+UC course:  POL 004 - Basic Concepts in Political Theory
+CC course:  POLS 320 - Introduction to Political Theory
+
+UC course:  POL 002 - Introduction to Comparative Politics
+CC course:  POLS 302 - Comparative Politics
+
+UC course:  POL 001 - American National Government
+CC course:  POLS 481 - Introduction to Government: United States-Honors / POLS 301 - Introduction to Government: United States

@@ -1,0 +1,32 @@
+Major: Native American Studies A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  NAS 001 - Introduction to Native American Studies
+CC course:  ETHNS 350 - Introduction to Native American Studies
+
+UC course:  LIN 001 - Introduction to Linguistics
+CC course:  ANTH 341 - Introduction to Linguistics
+
+UC course:  ESP 010 - Current Issues in the Environment
+CC course:  NATR 300 - Introduction to Natural Resource Conservation and Policy
+
+UC course:  HIS 007A - History of Latin America to 1700
+CC course:  HIST 374 - History of Latin America to 1830
+
+UC course:  ANT 024 - Ancient Crops & People
+CC course:  No articulation
+
+UC course:  HIS 017A - History of the United States
+CC course:  HIST 310 - History of the United States (to 1877) / HIST 483 - History of the United States-Honors
+
+UC course:  CHI 010 - Introduction to Chicana/o Studies
+CC course:  ETHNS 360 - Introduction to Chicana/o/x Studies
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  ASA 001 - Historical Experience of Asian Americans
+CC course:  HIST 325 - History of Asian/Pacific Americans / ETHNS 330 - Introduction to Asian American Studies
+
+UC course:  NAS 005 - Introduction to Native American Literature
+CC course:  ENGLT 338 - Native American Literature

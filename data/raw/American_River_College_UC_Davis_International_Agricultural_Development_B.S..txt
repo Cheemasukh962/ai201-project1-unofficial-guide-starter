@@ -1,0 +1,53 @@
+Major: International Agricultural Development B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  CHN 001 - Elementary Chinese
+CC course:  No articulation
+
+UC course:  CHN 002 - Elementary Chinese
+CC course:  No articulation
+
+UC course:  CHN 003 - Elementary Chinese
+CC course:  No articulation
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  ECN 001A - Principles of Microeconomics
+CC course:  ECON 304 - Principles of Microeconomics
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  SSC 010 - Soils in Our Environment
+CC course:  HORT 302 - Soils, Soil Management, and Plant Nutrition
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  NUT 010 - Discoveries & Concepts in Nutrition
+CC course:  NUTRI 300 - Nutrition

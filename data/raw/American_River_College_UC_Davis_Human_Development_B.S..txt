@@ -1,0 +1,62 @@
+Major: Human Development B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  CMN 001 - Introduction to Public Speaking
+CC course:  COMM 301 - Introduction to Public Speaking
+
+UC course:  ENL 003 - Introduction to Literature
+CC course:  ENGWR 301 - College Composition and Literature / ENGWR 481 - Honors College Composition and Literature / ENGWR 303 - Argumentative Writing and Critical Thinking Through Literature
+
+UC course:  UWP 048 - Style in the Essay
+CC course:  ENGWR 482 - Honors Advanced Composition and Critical Thinking
+
+UC course:  NAS 005 - Introduction to Native American Literature
+CC course:  ENGLT 338 - Native American Literature
+
+UC course:  COM 003 - Major Works of the Modern World
+CC course:  ENGLT 341 - World Literature II
+
+UC course:  COM 002 - Major Works of the Medieval & Early Modern World
+CC course:  ENGLT 341 - World Literature II AND ENGLT 340 - World Literature I
+
+UC course:  UWP 001 - Introduction to Academic Literacies
+CC course:  ENGWR 482 - Honors Advanced Composition and Critical Thinking / ENGWR 302 - Advanced Composition and Critical Thinking / ENGWR 480 - Honors College Composition / ENGWR 300 - College Composition
+
+UC course:  COM 001 - Major Works of the Ancient World
+CC course:  ENGLT 340 - World Literature I
+
+UC course:  PHI 005 - Critical Reasoning
+CC course:  PHIL 320 - Logic and Critical Reasoning
+
+UC course:  PSC 041 - Research Methods in Psychology
+CC course:  PSYC 335 - Research Methods in Psychology
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  PSC 001 - General Psychology
+CC course:  PSYC 300 - General Principles / PSYC 480 - Honors General Principles
+
+UC course:  ANT 015 - From Birth to Death: The Evolution of the Human Life Cycle
+CC course:  PSYC 370 - Human Development: A Life Span
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  ANT 001 - Human Evolutionary Biology
+CC course:  ANTH 300 - Biological Anthropology / ANTH 480 - Honors Biological Anthropology
+
+UC course:  NPB 010 - Elementary Human Physiology
+CC course:  BIOL 430 - Anatomy and Physiology AND BIOL 431 - Anatomy and Physiology
+
+UC course:  BIS 010 - Everyday Biology
+CC course:  BIOL 310 - General Biology / BIOL 300 - The Foundations of Biology
+
+UC course:  MIC 010 - Natural History of Infectious Diseases
+CC course:  BIOL 342 - The New Plagues: New and Ancient Infectious Diseases Threatening World Health
+
+UC course:  NPB 012 - The Human Brain & Disease
+CC course:  PSYC 310 - Biological Psychology
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology

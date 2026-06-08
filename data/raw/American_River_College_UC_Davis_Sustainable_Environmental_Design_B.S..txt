@@ -1,0 +1,101 @@
+Major: Sustainable Environmental Design B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  LDA 021 - Landscape Representation I
+CC course:  HORT 322 - Landscape and Irrigation Graphics and Design
+
+UC course:  UWP 048 - Style in the Essay
+CC course:  ENGWR 482 - Honors Advanced Composition and Critical Thinking
+
+UC course:  UWP 001 - Introduction to Academic Literacies
+CC course:  ENGWR 482 - Honors Advanced Composition and Critical Thinking / ENGWR 302 - Advanced Composition and Critical Thinking / ENGWR 480 - Honors College Composition / ENGWR 300 - College Composition
+
+UC course:  ENL 003 - Introduction to Literature
+CC course:  ENGWR 301 - College Composition and Literature / ENGWR 481 - Honors College Composition and Literature / ENGWR 303 - Argumentative Writing and Critical Thinking Through Literature
+
+UC course:  COM 003 - Major Works of the Modern World
+CC course:  ENGLT 341 - World Literature II
+
+UC course:  COM 001 - Major Works of the Ancient World
+CC course:  ENGLT 340 - World Literature I
+
+UC course:  CMN 001 - Introduction to Public Speaking
+CC course:  COMM 301 - Introduction to Public Speaking
+
+UC course:  COM 002 - Major Works of the Medieval & Early Modern World
+CC course:  ENGLT 341 - World Literature II AND ENGLT 340 - World Literature I
+
+UC course:  NAS 005 - Introduction to Native American Literature
+CC course:  ENGLT 338 - Native American Literature
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  GEL 001 - The Earth
+CC course:  GEOL 300 - Physical Geology
+
+UC course:  GEL 036 - The Solar System
+CC course:  ASTR 310 - The Solar System
+
+UC course:  PHY 007A - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 007B - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 007C - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 010 - Topics in Physics for Nonscientists
+CC course:  PHYS 310 - Conceptual Physics
+
+UC course:  AST 025 - Introduction to Modern Astronomy & Astrophysics
+CC course:  ASTR 481 - Honors Astronomy: Stars, Galaxies and Cosmology / ASTR 300 - Introduction to Astronomy AND ASTR 400 - Astronomy Laboratory
+
+UC course:  ECN 001A - Principles of Microeconomics
+CC course:  ECON 304 - Principles of Microeconomics
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  POL 001 - American National Government
+CC course:  POLS 481 - Introduction to Government: United States-Honors / POLS 301 - Introduction to Government: United States
+
+UC course:  POL 002 - Introduction to Comparative Politics
+CC course:  POLS 302 - Comparative Politics
+
+UC course:  POL 003 - International Relations
+CC course:  POLS 310 - Introduction to International Relations / POLS 480 - Introduction to International Relations - Honors
+
+UC course:  POL 004 - Basic Concepts in Political Theory
+CC course:  POLS 320 - Introduction to Political Theory
+
+UC course:  POL 007 - Introduction to Law & Politics
+CC course:  POLS 330 - Constitutional Rights
+
+UC course:  SOC 002 - Self & Society
+CC course:  SOC 309 - Self and Society
+
+UC course:  SOC 003 - Social Problems
+CC course:  SOC 301 - Social Problems
+
+UC course:  SOC 007 - Race & Ethnicity
+CC course:  SOC 321 - Race, Ethnicity and Inequality in the United States
+
+UC course:  SOC 025 - Sociology of Popular Culture
+CC course:  SOC 350 - Sociology of Popular Culture
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  STA 015A - Introduction to Statistical Data Science I
+CC course:  No articulation
+
+UC course:  STA 015B - Introduction to Statistical Data Science II
+CC course:  No articulation
+
+UC course:  STA 015C - Introduction to Statistical Data Science III
+CC course:  No articulation

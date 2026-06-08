@@ -1,0 +1,14 @@
+Major: German A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  GER 020 - Intermediate German
+CC course:  GERM 412 - Intermediate German
+
+UC course:  GER 003 - Elementary German
+CC course:  GERM 411 - Intermediate German
+
+UC course:  GER 002 - Elementary German
+CC course:  GERM 402 - Elementary German II
+
+UC course:  GER 001 - Elementary German
+CC course:  GERM 401 - Elementary German I

@@ -1,0 +1,107 @@
+Major: Cognitive Science B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  PSC 041 - Research Methods in Psychology
+CC course:  PSYC 335 - Research Methods in Psychology
+
+UC course:  PSC 041 - Research Methods in Psychology
+CC course:  PSYC 335 - Research Methods in Psychology
+
+UC course:  PHI 012 - Introduction to Symbolic Logic
+CC course:  PHIL 324 - Symbolic Logic / MATH 320 - Symbolic Logic
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life
+CC course:  BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  PHY 007A - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 007B - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 007C - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 009B - Classical Physics
+CC course:  PHYS 431 - Heat, Waves, Light and Modern Physics
+
+UC course:  PHY 009A - Classical Physics
+CC course:  PHYS 410 - Mechanics of Solids and Fluids
+
+UC course:  PHY 009C - Classical Physics
+CC course:  PHYS 421 - Electricity and Magnetism
+
+UC course:  MAT 021C - Calculus
+CC course:  MATH 401 - Calculus II AND MATH 402 - Calculus III
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 017B - Calculus for Biology & Medicine
+CC course:  No articulation
+
+UC course:  MAT 017C - Calculus for Biology & Medicine
+CC course:  No articulation
+
+UC course:  MAT 017A - Calculus for Biology & Medicine
+CC course:  MATH 355 - Calculus for Biology and Medicine I
+
+UC course:  LIN 001 - Introduction to Linguistics
+CC course:  ANTH 341 - Introduction to Linguistics
+
+UC course:  PSC 001 - General Psychology
+CC course:  PSYC 300 - General Principles / PSYC 480 - Honors General Principles
+
+UC course:  ECS 020 - Discrete Mathematics For Computer Science
+CC course:  CISP 440 - Discrete Structures for Computer Science
+
+UC course:  PSC 001 - General Psychology
+CC course:  PSYC 300 - General Principles / PSYC 480 - Honors General Principles
+
+UC course:  LIN 001 - Introduction to Linguistics
+CC course:  ANTH 341 - Introduction to Linguistics
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  ECS 036A - Programming & Problem Solving
+CC course:  CISP 360 - Introduction to Structured Programming / CISP 480 - Honors Introduction to Structured Programming
+
+UC course:  ECS 036B - Software Development & Object-Oriented Programming in C++
+CC course:  CISP 400 - Object Oriented Programming with C++
+
+UC course:  ECS 036C - Data Structures, Algorithms, & Programming
+CC course:  CISP 430 - Data Structures
+
+UC course:  ECS 034 - Software Development in UNIX & C++
+CC course:  No articulation
+
+UC course:  ECS 032A - Introduction to Programming
+CC course:  CISP 300 - Algorithm Design/Problem Solving
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  MAT 017A - Calculus for Biology & Medicine
+CC course:  MATH 355 - Calculus for Biology and Medicine I
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 021C - Calculus
+CC course:  MATH 401 - Calculus II AND MATH 402 - Calculus III

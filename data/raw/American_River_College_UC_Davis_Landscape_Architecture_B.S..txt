@@ -1,0 +1,38 @@
+Major: Landscape Architecture B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  ENL 003 - Introduction to Literature
+CC course:  ENGWR 301 - College Composition and Literature / ENGWR 481 - Honors College Composition and Literature / ENGWR 303 - Argumentative Writing and Critical Thinking Through Literature
+
+UC course:  UWP 001 - Introduction to Academic Literacies
+CC course:  ENGWR 482 - Honors Advanced Composition and Critical Thinking / ENGWR 302 - Advanced Composition and Critical Thinking / ENGWR 480 - Honors College Composition / ENGWR 300 - College Composition
+
+UC course:  LDA 021 - Landscape Representation I
+CC course:  HORT 322 - Landscape and Irrigation Graphics and Design
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  CMN 001 - Introduction to Public Speaking
+CC course:  COMM 301 - Introduction to Public Speaking
+
+UC course:  ENH 006 - Introduction to Environmental Plants
+CC course:  HORT 305 - Plant Identification-Fall Selections / HORT 306 - Plant Identification-Spring Selections
+
+UC course:  GEL 001 - The Earth
+CC course:  GEOL 300 - Physical Geology
+
+UC course:  PHY 010 - Topics in Physics for Nonscientists
+CC course:  PHYS 310 - Conceptual Physics
+
+UC course:  SSC 010 - Soils in Our Environment
+CC course:  HORT 302 - Soils, Soil Management, and Plant Nutrition
+
+UC course:  PHY 001A - Principles of Physics
+CC course:  PHYS 350 - General Physics
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  MAT 016A - Short Calculus
+CC course:  MATH 400 - Calculus I

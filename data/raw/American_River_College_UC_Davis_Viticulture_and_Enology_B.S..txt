@@ -1,0 +1,47 @@
+Major: Viticulture & Enology B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  MGT 011B - Elementary Accounting
+CC course:  ACCT 311 - Managerial Accounting
+
+UC course:  ECN 001A - Principles of Microeconomics
+CC course:  ECON 304 - Principles of Microeconomics
+
+UC course:  MGT 011A - Elementary Accounting
+CC course:  ACCT 301 - Financial Accounting
+
+UC course:  MAT 016A - Short Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 016B - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  SPA 021 - Intermediate Spanish
+CC course:  SPAN 411 - Intermediate Spanish
+
+UC course:  SPA 022 - Intermediate Spanish
+CC course:  SPAN 412 - Intermediate Spanish
+
+UC course:  SPA 031 - Spanish for Heritage Speakers I
+CC course:  SPAN 413 - Spanish for Native Speakers I
+
+UC course:  SPA 032 - Spanish for Heritage Speakers II
+CC course:  SPAN 415 - Spanish for Native Speakers II
+
+UC course:  GER 020 - Intermediate German
+CC course:  GERM 412 - Intermediate German
+
+UC course:  PHY 007A - General Physics
+CC course:  PHYS 350 - General Physics AND PHYS 360 - General Physics
+
+UC course:  PHY 001B - Principles of Physics
+CC course:  PHYS 360 - General Physics
+
+UC course:  PHY 001A - Principles of Physics
+CC course:  PHYS 350 - General Physics

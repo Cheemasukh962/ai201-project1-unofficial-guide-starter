@@ -1,0 +1,65 @@
+Major: Environmental Policy Analysis & Planning B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  WFC 051 - Introduction to Conservation Biology
+CC course:  No articulation
+
+UC course:  GEL 001 - The Earth
+CC course:  GEOL 300 - Physical Geology
+
+UC course:  SSC 010 - Soils in Our Environment
+CC course:  HORT 302 - Soils, Soil Management, and Plant Nutrition
+
+UC course:  MAT 016B - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 016A - Short Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 017A - Calculus for Biology & Medicine
+CC course:  MATH 355 - Calculus for Biology and Medicine I
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  ECN 001A - Principles of Microeconomics
+CC course:  ECON 304 - Principles of Microeconomics
+
+UC course:  PHY 001A - Principles of Physics
+CC course:  PHYS 350 - General Physics
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  POL 001 - American National Government
+CC course:  POLS 481 - Introduction to Government: United States-Honors / POLS 301 - Introduction to Government: United States
+
+UC course:  BIS 010 - Everyday Biology
+CC course:  BIOL 310 - General Biology / BIOL 300 - The Foundations of Biology
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  BIS 002A - Introduction to Biology: Essentials of Life on Earth
+CC course:  BIOL 400 - Principles of Biology
+
+UC course:  CMN 001 - Introduction to Public Speaking
+CC course:  COMM 301 - Introduction to Public Speaking
+
+UC course:  CMN 003 - Interpersonal Communication Competence
+CC course:  No articulation
+
+UC course:  BIS 002C - Introduction to Biology: Biodiversity & the Tree of Life
+CC course:  BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany
+
+UC course:  PHY 001B - Principles of Physics
+CC course:  PHYS 360 - General Physics
+
+UC course:  BIS 002B - Introduction to Biology: Principles of Ecology & Evolution
+CC course:  BIOL 400 - Principles of Biology AND BIOL 415 - Introduction to Biology: Biodiversity, Evolution, and Ecology / BIOL 400 - Principles of Biology AND BIOL 420 - Principles of Zoology AND BIOL 410 - Principles of Botany

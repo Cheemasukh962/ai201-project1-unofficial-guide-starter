@@ -1,0 +1,167 @@
+Major: Sociology A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  HIS 007A - History of Latin America to 1700
+CC course:  HIST 374 - History of Latin America to 1830
+
+UC course:  HIS 010C - World History III
+CC course:  HIST 308 - History of World Civilizations, 1500 to Present
+
+UC course:  HIS 006 - Introduction to the Middle East
+CC course:  HIST 353 - History of the Islamic World
+
+UC course:  HIS 017A - History of the United States
+CC course:  HIST 310 - History of the United States (to 1877) / HIST 483 - History of the United States-Honors
+
+UC course:  HIS 017B - History of the United States
+CC course:  HIST 484 - History of the United States-Honors / HIST 311 - History of the United States (1865 - Present)
+
+UC course:  SOC 007 - Race & Ethnicity
+CC course:  SOC 321 - Race, Ethnicity and Inequality in the United States
+
+UC course:  SOC 003 - Social Problems
+CC course:  SOC 301 - Social Problems
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  ASA 001 - Historical Experience of Asian Americans
+CC course:  HIST 325 - History of Asian/Pacific Americans / ETHNS 330 - Introduction to Asian American Studies
+
+UC course:  CHI 010 - Introduction to Chicana/o Studies
+CC course:  ETHNS 360 - Introduction to Chicana/o/x Studies
+
+UC course:  AAS 010 - African-American Culture & Society
+CC course:  ETHNS 320 - Introduction to African American Studies
+
+UC course:  NAS 001 - Introduction to Native American Studies
+CC course:  ETHNS 350 - Introduction to Native American Studies
+
+UC course:  SOC 007 - Race & Ethnicity
+CC course:  SOC 321 - Race, Ethnicity and Inequality in the United States
+
+UC course:  HIS 010C - World History III
+CC course:  HIST 308 - History of World Civilizations, 1500 to Present
+
+UC course:  POL 002 - Introduction to Comparative Politics
+CC course:  POLS 302 - Comparative Politics
+
+UC course:  PHI 024 - Introduction to Ethics
+CC course:  PHIL 310 - Introduction to Ethics
+
+UC course:  PHI 014 - Ethical & Social Problems in Contemporary Society
+CC course:  PHIL 315 - Contemporary Moral Issues
+
+UC course:  PHI 005 - Critical Reasoning
+CC course:  PHIL 320 - Logic and Critical Reasoning
+
+UC course:  PSC 001 - General Psychology
+CC course:  PSYC 300 - General Principles / PSYC 480 - Honors General Principles
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
+
+UC course:  SOC 007 - Race & Ethnicity
+CC course:  SOC 321 - Race, Ethnicity and Inequality in the United States
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
+
+UC course:  ASA 001 - Historical Experience of Asian Americans
+CC course:  HIST 325 - History of Asian/Pacific Americans / ETHNS 330 - Introduction to Asian American Studies
+
+UC course:  CHI 010 - Introduction to Chicana/o Studies
+CC course:  ETHNS 360 - Introduction to Chicana/o/x Studies
+
+UC course:  AAS 010 - African-American Culture & Society
+CC course:  ETHNS 320 - Introduction to African American Studies
+
+UC course:  NAS 001 - Introduction to Native American Studies
+CC course:  ETHNS 350 - Introduction to Native American Studies
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
+
+UC course:  SOC 002 - Self & Society
+CC course:  SOC 309 - Self and Society
+
+UC course:  SOC 003 - Social Problems
+CC course:  SOC 301 - Social Problems
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  HIS 006 - Introduction to the Middle East
+CC course:  HIST 353 - History of the Islamic World
+
+UC course:  HIS 017B - History of the United States
+CC course:  HIST 484 - History of the United States-Honors / HIST 311 - History of the United States (1865 - Present)
+
+UC course:  HIS 017A - History of the United States
+CC course:  HIST 310 - History of the United States (to 1877) / HIST 483 - History of the United States-Honors
+
+UC course:  HIS 007A - History of Latin America to 1700
+CC course:  HIST 374 - History of Latin America to 1830
+
+UC course:  HIS 010C - World History III
+CC course:  HIST 308 - History of World Civilizations, 1500 to Present
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
+
+UC course:  PHI 024 - Introduction to Ethics
+CC course:  PHIL 310 - Introduction to Ethics
+
+UC course:  PHI 005 - Critical Reasoning
+CC course:  PHIL 320 - Logic and Critical Reasoning
+
+UC course:  PHI 014 - Ethical & Social Problems in Contemporary Society
+CC course:  PHIL 315 - Contemporary Moral Issues
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  POL 007 - Introduction to Law & Politics
+CC course:  POLS 330 - Constitutional Rights
+
+UC course:  POL 001 - American National Government
+CC course:  POLS 481 - Introduction to Government: United States-Honors / POLS 301 - Introduction to Government: United States
+
+UC course:  POL 004 - Basic Concepts in Political Theory
+CC course:  POLS 320 - Introduction to Political Theory
+
+UC course:  ANT 002 - Cultural Anthropology
+CC course:  ANTH 310 - Cultural Anthropology / ANTH 481 - Honors Cultural Anthropology
+
+UC course:  POL 003 - International Relations
+CC course:  POLS 310 - Introduction to International Relations / POLS 480 - Introduction to International Relations - Honors
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  SOC 002 - Self & Society
+CC course:  SOC 309 - Self and Society
+
+UC course:  SOC 025 - Sociology of Popular Culture
+CC course:  SOC 350 - Sociology of Popular Culture
+
+UC course:  SOC 003 - Social Problems
+CC course:  SOC 301 - Social Problems
+
+UC course:  SOC 007 - Race & Ethnicity
+CC course:  SOC 321 - Race, Ethnicity and Inequality in the United States

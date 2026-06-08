@@ -1,0 +1,17 @@
+Major: Religious Studies A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  RST 021 - The Bible & Its Interpreters
+CC course:  RLST 310 - Introduction to the Hebrew Bible
+
+UC course:  RST 015Y - Reading War/Fighting War
+CC course:  No articulation
+
+UC course:  RST 060 - Introduction to Islam
+CC course:  RLST 313 - Introduction to Islam
+
+UC course:  RST 040 - New Testament
+CC course:  RLST 311 - Introduction to the New Testament
+
+UC course:  RST 010 - Contemporary Ethical Issues
+CC course:  PHIL 310 - Introduction to Ethics

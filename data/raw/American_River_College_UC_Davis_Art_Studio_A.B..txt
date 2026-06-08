@@ -1,0 +1,32 @@
+Major: Art Studio A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  ART 007 - Beginning Painting
+CC course:  ART 327 - Painting I
+
+UC course:  ART 002 - Beginning Drawing
+CC course:  ART 300 - Drawing and Composition I
+
+UC course:  ART 009 - Beginning Photography
+CC course:  ARTPH 300 - Basic Film and Darkroom Photography
+
+UC course:  ART 005 - Beginning Sculpture
+CC course:  ART 372 - Sculpture / ART 370 - Three Dimensional Design / ART 373 - Intermediate Sculpture
+
+UC course:  ART 011 - Beginning Printmaking
+CC course:  ART 361 - Printmaking: Survey
+
+UC course:  ART 008 - Beginning Ceramic Sculpture
+CC course:  No articulation
+
+UC course:  AHI 001B - Medieval & Renaissance Art
+CC course:  ARTH 308 - Renaissance Tradition in Art
+
+UC course:  AHI 001C - Baroque to Modern Art
+CC course:  ARTH 310 - Modern Art
+
+UC course:  AHI 001E - Islamic Art & Architecture
+CC course:  ARTH 333 - Introduction to Islamic Art
+
+UC course:  AHI 001A - Ancient Mediterranean Art
+CC course:  ARTH 302 - Art: Stone Age through the Middle Ages

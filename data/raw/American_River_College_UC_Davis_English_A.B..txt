@@ -1,0 +1,29 @@
+Major: English A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  ENL 010C - Literatures in English III: 1900 to Present
+CC course:  ENGLT 311 - English Literature II / ENGLT 321 - American Literature II
+
+UC course:  ENL 010B - Literatures in English II: 1700-1900
+CC course:  ENGLT 311 - English Literature II / ENGLT 320 - American Literature I
+
+UC course:  ENL 010A - Literatures in English I: To 1700
+CC course:  ENGLT 310 - English Literature I
+
+UC course:  ENL 040 - Introductory Topics in Literature
+CC course:  ENGLT 330 - African American Literature / ENGLT 360 - Women in Literature
+
+UC course:  ENL 043 - Introductory Topics in Drama
+CC course:  ENGLT 382 - Introduction to Dramatic Literature
+
+UC course:  ENL 044 - Introductory Topics in Fiction
+CC course:  ENGLT 300 - Introduction to Fiction
+
+UC course:  ENL 045 - Introductory Topics in Poetry
+CC course:  ENGLT 304 - Introduction to Poetry
+
+UC course:  UWP 001 - Introduction to Academic Literacies
+CC course:  ENGWR 482 - Honors Advanced Composition and Critical Thinking / ENGWR 302 - Advanced Composition and Critical Thinking / ENGWR 480 - Honors College Composition / ENGWR 300 - College Composition
+
+UC course:  ENL 003 - Introduction to Literature
+CC course:  ENGWR 301 - College Composition and Literature / ENGWR 481 - Honors College Composition and Literature / ENGWR 303 - Argumentative Writing and Critical Thinking Through Literature

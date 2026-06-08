@@ -1,0 +1,44 @@
+Major: Chinese A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  CHN 004 - Intermediate Chinese
+CC course:  No articulation
+
+UC course:  CHN 006 - Intermediate Chinese
+CC course:  No articulation
+
+UC course:  CHN 003 - Elementary Chinese
+CC course:  No articulation
+
+UC course:  CHN 001 - Elementary Chinese
+CC course:  No articulation
+
+UC course:  CHN 002 - Elementary Chinese
+CC course:  No articulation
+
+UC course:  CHN 005 - Intermediate Chinese
+CC course:  No articulation
+
+UC course:  CHN 003BL - Accelerated Written Chinese III
+CC course:  No articulation
+
+UC course:  CHN 001BL - Accelerated Written Chinese I
+CC course:  No articulation
+
+UC course:  CHN 002BL - Accelerated Written Chinese II
+CC course:  No articulation
+
+UC course:  CHN 002CN - Mandarin for Cantonese Speakers II
+CC course:  No articulation
+
+UC course:  CHN 003CN - Mandarin for Cantonese Speakers III
+CC course:  No articulation
+
+UC course:  CHN 001CN - Mandarin for Cantonese Speakers I
+CC course:  No articulation
+
+UC course:  LIN 001 - Introduction to Linguistics
+CC course:  ANTH 341 - Introduction to Linguistics
+
+UC course:  COM 014 - Introduction to Poetry
+CC course:  ENGLT 304 - Introduction to Poetry

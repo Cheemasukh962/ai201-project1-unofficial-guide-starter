@@ -1,0 +1,131 @@
+Major: Statistics B.S.
+CC: American River College -> UC: UC Davis
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  MAT 021D - Vector Analysis
+CC course:  MATH 402 - Calculus III
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021C - Calculus
+CC course:  MATH 401 - Calculus II AND MATH 402 - Calculus III
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021C - Calculus
+CC course:  MATH 401 - Calculus II AND MATH 402 - Calculus III
+
+UC course:  MAT 021D - Vector Analysis
+CC course:  MATH 402 - Calculus III
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  ECS 034 - Software Development in UNIX & C++
+CC course:  No articulation
+
+UC course:  ECS 036C - Data Structures, Algorithms, & Programming
+CC course:  CISP 430 - Data Structures
+
+UC course:  MAT 021C - Calculus
+CC course:  MATH 401 - Calculus II AND MATH 402 - Calculus III
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021D - Vector Analysis
+CC course:  MATH 402 - Calculus III
+
+UC course:  ECS 036A - Programming & Problem Solving
+CC course:  CISP 360 - Introduction to Structured Programming / CISP 480 - Honors Introduction to Structured Programming
+
+UC course:  ECS 032A - Introduction to Programming
+CC course:  CISP 300 - Algorithm Design/Problem Solving
+
+UC course:  ECS 032A - Introduction to Programming
+CC course:  CISP 300 - Algorithm Design/Problem Solving
+
+UC course:  ECS 036A - Programming & Problem Solving
+CC course:  CISP 360 - Introduction to Structured Programming / CISP 480 - Honors Introduction to Structured Programming
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 021C - Calculus
+CC course:  MATH 401 - Calculus II AND MATH 402 - Calculus III
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 017A - Calculus for Biology & Medicine
+CC course:  MATH 355 - Calculus for Biology and Medicine I
+
+UC course:  MAT 016C - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  MAT 016A - Short Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 016B - Short Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra
+
+UC course:  ECS 032A - Introduction to Programming
+CC course:  CISP 300 - Algorithm Design/Problem Solving
+
+UC course:  ECS 036A - Programming & Problem Solving
+CC course:  CISP 360 - Introduction to Structured Programming / CISP 480 - Honors Introduction to Structured Programming
+
+UC course:  MAT 021C - Calculus
+CC course:  MATH 401 - Calculus II AND MATH 402 - Calculus III
+
+UC course:  MAT 021D - Vector Analysis
+CC course:  MATH 402 - Calculus III
+
+UC course:  MAT 021A - Calculus
+CC course:  MATH 400 - Calculus I
+
+UC course:  MAT 021B - Calculus
+CC course:  MATH 401 - Calculus II
+
+UC course:  ECS 036A - Programming & Problem Solving
+CC course:  CISP 360 - Introduction to Structured Programming / CISP 480 - Honors Introduction to Structured Programming
+
+UC course:  ECS 032A - Introduction to Programming
+CC course:  CISP 300 - Algorithm Design/Problem Solving
+
+UC course:  STA 013 - Elementary Statistics
+CC course:  STAT 480 - Introduction to Probability and Statistics - Honors / PSYC 330 - Introductory Statistics for the Behavioral Sciences / STAT 300 - Introduction to Probability and Statistics / ECON 310 - Statistics for Business and Economics
+
+UC course:  MAT 022A - Linear Algebra
+CC course:  MATH 410 - Introduction to Linear Algebra

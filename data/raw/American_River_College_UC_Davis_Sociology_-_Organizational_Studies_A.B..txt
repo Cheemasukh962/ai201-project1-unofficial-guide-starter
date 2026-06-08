@@ -1,0 +1,20 @@
+Major: Sociology - Organizational Studies A.B.
+CC: American River College -> UC: UC Davis
+
+UC course:  SOC 007 - Race & Ethnicity
+CC course:  SOC 321 - Race, Ethnicity and Inequality in the United States
+
+UC course:  SOC 001 - Introduction to Sociology
+CC course:  SOC 480 - Introductory Sociology - Honors / SOC 300 - Introductory Sociology
+
+UC course:  SOC 002 - Self & Society
+CC course:  SOC 309 - Self and Society
+
+UC course:  ECN 001B - Principles of Macroeconomics
+CC course:  ECON 302 - Principles of Macroeconomics
+
+UC course:  ECN 001A - Principles of Microeconomics
+CC course:  ECON 304 - Principles of Microeconomics
+
+UC course:  SOC 046 - Introduction to Social Research Methods
+CC course:  SOC 302 - Introduction to Social Research Methods
